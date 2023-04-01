@@ -3,7 +3,7 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [30 days of testing adventure](#30-days-of-testing-adventure)
+- [30 days of testing adventure](#30-days-of-testing-adventure) :heart: :muscle:
 - [MSSQL Project](#mssql-project)
   * [Introduction](#introduction)
   * [Database schema](#database-schema)
@@ -47,7 +47,7 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 |Day 8|March 29, 2023|Development of a new portfolio concept | |
 |Day 9|March 30, 2023| SQL Project| |
 |Day 10|March 31, 2023| Creating a new portfolio-repository| |
-|Day 11|April 1, 2023| TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | https://www.youtube.com/watch?v=oTEkJtXWeps |
+|Day 11|April 1, 2023| Video: TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | https://www.youtube.com/watch?v=oTEkJtXWeps |
 |Day 12|April 2, 2023| | |
 |Day 13|April 3, 2023| | |
 |Day 14|April 4, 2023| | |
