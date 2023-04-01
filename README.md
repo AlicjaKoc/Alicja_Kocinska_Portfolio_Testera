@@ -39,15 +39,15 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 |Day 1|March 22, 2023| Meeting with the Mentor | |
 |Day 2|March 23, 2023| Women TechStyle Summit 2023 (online) | https://womentechstyle.pl|
 |||3QA meeting | http://trojqa.pl/58-spotkanie |
-|Day 3|March 24, 2023| | |
-|Day 4|March 25, 2023| | |
-|Day 5|March 26, 2023| | |
-|Day 6|March 27, 2023| | |
-|Day 7|March 28, 2023| | |
-|Day 8|March 29, 2023| | |
-|Day 9|March 30, 2023| | |
-|Day 10|March 31, 2023| | |
-|Day 11|April 1, 2023| | |
+|Day 3|March 24, 2023| SQL Project | |
+|Day 4|March 25, 2023| Video: TestITka 01 - A journey through the world of testing with Karolina and Natalia| https://www.youtube.com/watch?v=rn63o_3sP8M&t=2536s |
+|Day 5|March 26, 2023| Video: TestITka 02 - Exploring Automation with Maciej Kusz| https://www.youtube.com/watch?v=gMl4ssrmxR8 |
+|Day 6|March 27, 2023| Book: M. Tsitoara "Git i GitHub. Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej" - chapter 8, 9| |
+|Day 7|March 28, 2023| SQL Project| |
+|Day 8|March 29, 2023|Development of a new portfolio concept | |
+|Day 9|March 30, 2023| SQL Project| |
+|Day 10|March 31, 2023| Creating a new portfolio-repository| |
+|Day 11|April 1, 2023| TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | https://www.youtube.com/watch?v=oTEkJtXWeps |
 |Day 12|April 2, 2023| | |
 |Day 13|April 3, 2023| | |
 |Day 14|April 4, 2023| | |
