@@ -73,10 +73,75 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 
 #### Introduction
 
+This project is designed to demonstrate my skills related to Structured Query Language. It is based on the ready-made HR Sample Database. 
+
 #### Database schema
 
 
 ![database schema](https://user-images.githubusercontent.com/100232101/229037496-4469f994-9bb3-4a09-b186-dacdf2937ded.jpg)
+
+EMPLOYEES:
+- employee_id __(primary key)__, 
+- first_name, 
+- last_name, 
+- email, 
+- phone_number, 
+- hire_date, 
+- job_id, 
+- salary, 
+- commission_pct, 
+- manager_id, 
+- department_id. 
+
+Each employee must be related to one department in the departments table and one job in the jobs table, and may be related to one or more records in the job_history table.
+
+JOB_HISTORY:
+- employee_id __(primary key)__, 
+- start_date __(primary key)__, 
+- end_date, 
+- job_id,
+- department_id. 
+
+Each job history record must be associated with one employee in the employees table.
+
+JOBS:
+- job_id __(primary key)__, 
+- job_title, 
+- min_salary,
+- max_salary. 
+
+Each job may be related to one or more employees in the employees table.
+
+DEPARTMENTS:
+- department_id __(the primary key)__, 
+- department_name, 
+- manager_id, 
+- location_id. 
+
+Each department must be related to one or more employees in the employee table and must be related to one location in the locations table.
+
+LOCATIONS:
+- location_id __(primary key)__, 
+- street_address, 
+- postal_code, 
+- city, 
+- state_province, 
+- country_id. 
+
+Each location may be associated with one or more departments and must be associated with one country.
+
+COUNTRIES:
+- country_id __(primary key)__, 
+- country_name, 
+- region_id.
+
+Each country may be related to one or more locations and must be associated with one region.
+
+REGIONS:
+- region_id __(primary key)__, 
+- region_name. 
+
+Each region may be associated with one or more countries.
 
 
 ### DARE IT CHALLENGE PROJECT
