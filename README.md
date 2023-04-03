@@ -14,6 +14,7 @@
   * [Test cases based on own experience](#test-cases-based-on-own-experience)
   * [Defects reports](#defects-reports)
   * [MYSQL queries](#mysql-queries)
+  * [Postman Project](#postman-project)
 
 ### ABOUT ME
 
@@ -116,3 +117,9 @@ Insert, update and delete tables data: [examples](https://docs.google.com/spread
 #### MYSQL queries
 - [examples](https://docs.google.com/spreadsheets/d/1ioKzrf9DgiSKVhWSoP4loW4qMwVoeFlj/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true)
 
+### POSTMAN PROJECT
+
+Project for the end of postgraduate studies done in a three-person team: "Design and execution of manual functional tests for API of Tristar sytem".
+The work consisted of designing functional tests for the API of the Tristar Integrated Traffic Management System. The purpose of the work was to prepare a test plan, test cases and scenarios to ensure optimal (in the opinion of the testers) coverage of the functionalities offered by the API. To create and execute the tests, the chosen tool for manual execution of requests had to be used - we chose Postman. Project done in Polish.
+
+[Project](https://drive.google.com/file/d/1Z7Vvr4JjX-cSy6zdwONdEt_X7udNwDpc/view?usp=sharing)
