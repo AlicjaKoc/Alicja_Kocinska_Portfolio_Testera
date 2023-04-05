@@ -53,8 +53,9 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 |Day 11|April 1, 2023| Video: TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | https://www.youtube.com/watch?v=oTEkJtXWeps |
 |Day 12|April 2, 2023| SQL Project | |
 |Day 13|April 3, 2023| Build up my portfolio | |
-| | Meeting with the Mentor (online) | |
+| | | Meeting with the Mentor (online) | |
 |Day 14|April 4, 2023| Book: B. Błaszczyk "English 4 IT" | |
+| | | CV update| |
 |Day 15|April 5, 2023| | |
 |Day 16|April 6, 2023| | |
 |Day 17|April 7, 2023| | |
