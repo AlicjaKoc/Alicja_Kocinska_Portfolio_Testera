@@ -90,7 +90,7 @@ This project is designed to demonstrate my skills related to Structured Query La
 
 
 
-#### SELECT Statement
+#### :star: SELECT Statement
 
 [Examples](https://docs.google.com/spreadsheets/d/1g5ASzinM-PNNa10XttWsdXyM5ZzP22QeAxEnrWuEako/edit?usp=sharing)
 
