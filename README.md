@@ -14,7 +14,7 @@
   * [Test cases based on own experience](#test-cases-based-on-own-experience)
   * [Defects reports](#defects-reports)
   * [MYSQL queries](#mysql-queries)
-  * [Postman Project](#postman-project)
+- [Postman Project](#postman-project)
 
 ### ABOUT ME
 
@@ -28,6 +28,8 @@ I focus on development, I independently deepen the knowledge outlined during my 
 __I am currently a mentee in the eighth edition of the Tech Leaders mentoring program.__
 
 ### CV
+
+You can download my [CV as a PDF](https://drive.google.com/drive/folders/1CLZu1WdgfGOkCs9p6H5r7OIVzpB9xd6a?usp=sharing).
 
 ### SKILLS
 
@@ -43,26 +45,26 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 |Day 2|March 23, 2023| Women TechStyle Summit 2023 (online) | https://womentechstyle.pl|
 |||3QA meeting | http://trojqa.pl/58-spotkanie |
 |Day 3|March 24, 2023| SQL Project | |
-|Day 4|March 25, 2023| Video: TestITka 01 - A journey through the world of testing with Karolina and Natalia| https://www.youtube.com/watch?v=rn63o_3sP8M&t=2536s |
-|Day 5|March 26, 2023| Video: TestITka 02 - Exploring Automation with Maciej Kusz| https://www.youtube.com/watch?v=gMl4ssrmxR8 |
+|Day 4|March 25, 2023| Video: TestITka 01 - A journey through the world of testing with Karolina and Natalia | [youtube](https://www.youtube.com/watch?v=rn63o_3sP8M&t=2536s) |
+|Day 5|March 26, 2023| Video: TestITka 02 - Exploring Automation with Maciej Kusz| [youtube](https://www.youtube.com/watch?v=gMl4ssrmxR8) |
 |Day 6|March 27, 2023| Book: M. Tsitoara "Git i GitHub. Kontrola wersji, zarządzanie projektami i zasady pracy zespołowej" - chapter 8, 9| |
 |Day 7|March 28, 2023| SQL Project| |
 |Day 8|March 29, 2023|Development of a new portfolio concept | |
 |Day 9|March 30, 2023| SQL Project| |
 |Day 10|March 31, 2023| Creating a new portfolio-repository| |
-|Day 11|April 1, 2023| Video: TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | https://www.youtube.com/watch?v=oTEkJtXWeps |
+|Day 11|April 1, 2023| Video: TestITka 03 - Kamila Gawrońska explores the OPZ of public procurement | [youtube](https://www.youtube.com/watch?v=oTEkJtXWeps) |
 |Day 12|April 2, 2023| SQL Project | |
 |Day 13|April 3, 2023| Build up my portfolio | |
 | | | Meeting with the Mentor (online) | |
 |Day 14|April 4, 2023| Book: B. Błaszczyk "English 4 IT" | |
 | | | CV update| |
-|Day 15|April 5, 2023| | |
-|Day 16|April 6, 2023| | |
-|Day 17|April 7, 2023| | |
-|Day 18|April 8, 2023| | |
-|Day 19|April 9, 2023| | |
-|Day 20|April 10, 2023| | |
-|Day 21|April 11, 2023| | |
+|Day 15|April 5, 2023| SQL Project | |
+|Day 16|April 6, 2023| Article: Top API Testing Tools for 2023 | [article]( https://testguild.com/12-open-source-api-testing-tools-rest-soap-services/?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_76&utm_term=2023-04-09) |
+|Day 17|April 7, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 18|April 8, 2023| SQL Project | |
+|Day 19|April 9, 2023| Easter egss instead bugs ;) | |
+|Day 20|April 10, 2023| Software testing jokes | [jokes](https://softwaretestingfundamentals.com/software-testing-jokes/#Who_Is_Who) |
+|Day 21|April 11, 2023| Portfolio update | |
 |Day 22|April 12, 2023| | |
 |Day 23|April 13, 2023| | |                    
 |Day 24|April 14, 2023| | |   
