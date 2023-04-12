@@ -119,7 +119,7 @@ Insert, update and delete tables data: [examples](https://docs.google.com/spread
 - [examples](https://docs.google.com/spreadsheets/d/1nmrV-hc8nKX1uE0Ta1jq7UDmCfTH-6aX5JXCV9psBmE/edit?usp=sharing) OLX mobile app.
 
 #### MYSQL queries
-- [examples](https://docs.google.com/spreadsheets/d/1ioKzrf9DgiSKVhWSoP4loW4qMwVoeFlj/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true)
+- [examples](https://docs.google.com/spreadsheets/d/10rCfih22QWaSmGMT5YJQpNEq37Us_opBISS0GM13jls/edit?usp=sharing)
 
 ### POSTMAN PROJECT
 
