@@ -7,7 +7,7 @@
 - [MSSQL Project](#mssql-project)
   * [Introduction](#introduction)
   * [Database schema](#database-schema)
-  * [SELECT Statement](#select-statement)
+  * [Basic SELECT Statement](#basic-select-statement)
   * [Restricting and sorting data](#restricting-and-sorting-data)
 - [Dare IT Challenge Project](#dare-it-challenge-project)
   * [Test cases based on User Story](#test-cases-based-on-User-Story)
@@ -92,7 +92,7 @@ This project is designed to demonstrate my skills related to Structured Query La
 
 
 
-#### :star: SELECT Statement
+#### Basic SELECT Statement :star:
 
 [Examples](https://docs.google.com/spreadsheets/d/1g5ASzinM-PNNa10XttWsdXyM5ZzP22QeAxEnrWuEako/edit?usp=sharing)
 
@@ -110,13 +110,13 @@ Insert, update and delete tables data: [examples](https://docs.google.com/spread
 
 #### Test cases based on User Story
 
-- [examples](https://docs.google.com/spreadsheets/d/1fCXSx9H1WHpmUckkFsxQXEN7WVACTqxX/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true) (http://scouts-test.futbolkolektyw.pl)
+- [examples](https://docs.google.com/spreadsheets/d/18y5GeVztU8mjouYvujx0I22aw78HZipRyaBLDP1T2tA/edit?usp=share_link) (http://scouts-test.futbolkolektyw.pl)
 
 #### Test cases based on own experience
-- [examples](https://docs.google.com/spreadsheets/d/1tB4qH8yE8Z8vlBmzYdgiMLMlWVJHy-dD/edit?usp=sharing&ouid=103988214272257934032&rtpof=true&sd=true)
+- [examples](https://docs.google.com/spreadsheets/d/1sQQ37KyVETAkdsolSqgihEX34Hny4kOlx4ENJHG0TA8/edit?usp=sharing)
 
 #### Defects reports
-- [examples](https://drive.google.com/drive/folders/1g0il0nEQ0cTZXfTFLyqGU97zcokEm0QL?usp=sharing) OLX mobile app.
+- [examples](https://docs.google.com/spreadsheets/d/1nmrV-hc8nKX1uE0Ta1jq7UDmCfTH-6aX5JXCV9psBmE/edit?usp=sharing) OLX mobile app.
 
 #### MYSQL queries
 - [examples](https://docs.google.com/spreadsheets/d/1ioKzrf9DgiSKVhWSoP4loW4qMwVoeFlj/edit?usp=share_link&ouid=103988214272257934032&rtpof=true&sd=true)
