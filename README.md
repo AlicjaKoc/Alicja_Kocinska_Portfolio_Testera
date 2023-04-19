@@ -8,7 +8,8 @@
   * [Introduction](#introduction)
   * [Database schema](#database-schema)
   * [Basic SELECT Statement](#basic-select-statement)
-  * [Restricting and sorting data](#restricting-and-sorting-data)
+  * [More complex SELECT Statement](#more-complex-select-statement)
+  * [Using JOIN](#using-join)
 - [Dare IT Challenge Project](#dare-it-challenge-project)
   * [Test cases based on User Story](#test-cases-based-on-User-Story)
   * [Test cases based on own experience](#test-cases-based-on-own-experience)
@@ -65,14 +66,16 @@ Are you curious about what I'm doing to become a better and better tester? My Me
 |Day 19|April 9, 2023| Easter egss instead bugs ;) | |
 |Day 20|April 10, 2023| Software testing jokes | [jokes](https://softwaretestingfundamentals.com/software-testing-jokes/#Who_Is_Who) |
 |Day 21|April 11, 2023| Portfolio update | |
-|Day 22|April 12, 2023| | |
-|Day 23|April 13, 2023| | |                    
-|Day 24|April 14, 2023| | |   
-|Day 25|April 15, 2023| | |
-|Day 26|April 16, 2023| | |
-|Day 27|April 17, 2023| | |
-|Day 28|April 18, 2023| | | 
-|Day 29|April 19, 2023| | |
+|Day 22|April 12, 2023| Meeting with the Mentor (online) | |
+|Day 23|April 13, 2023| SQL Project | |                    
+|Day 24|April 14, 2023| Book: B. Błaszczyk "English 4 IT" | |  
+|Day 25|April 15, 2023| Repetition of Jira - Udemy course: Jira from the basics - project management | |
+|Day 26|April 16, 2023| Video: Variables in SQL - how to make working with databases easier? Creating, declaring and working on variables.| [youtube](https://www.youtube.com/watch?v=1wup33GGPJ8) |
+| | | Article: BULK INSERT - importing data from a file into a SQL Server database. | [sqlpedia.pl](https://www.sqlpedia.pl/bulk-insert-import-danych-z-pliku-do-bazy-sql-server) |
+|Day 27|April 17, 2023| Webinar: Chat GPT for software testers. A new look at the work of a software tester. | |
+| | | Article: Demand for QA is about to explode. Opinion. | [testerzy.pl](https://testerzy.pl/baza-wiedzy/artykuly/zapotrzebowanie-na-qa-wkrotce-eksploduje-opinia?fbclid=IwAR2QFFZFT2ckmTw02hpQHuCYV5StNLpF4PoWedyvx_VM3fXVlUlwehSC_yA) |
+|Day 28|April 18, 2023| SQL Project | | 
+|Day 29|April 19, 2023| Repetition of Jira - Udemy course: Jira from the basics - project management | |
 |Day 30|April 20, 2023| | | 
 
 
@@ -92,17 +95,20 @@ This project is designed to demonstrate my skills related to Structured Query La
 
 
 
-#### Basic SELECT Statement :star:
+#### Basic SELECT Statement 
+:star:
 
 [Examples](https://docs.google.com/spreadsheets/d/1g5ASzinM-PNNa10XttWsdXyM5ZzP22QeAxEnrWuEako/edit?usp=sharing)
 
-#### Restricting and sorting data
+#### More complex SELECT Statement
+:star::star:
 
 [Examples](https://docs.google.com/spreadsheets/d/1He4mOUEDPhdG7Atb9IKUWyPZEsvnWIA-Shma1EP8_80/edit?usp=sharing)
 
-#### Manipulating Data
+#### Using JOIN
+:star::star::star:
 
-Insert, update and delete tables data: [examples](https://docs.google.com/spreadsheets/d/1lZeqk9BUoDFsNHCjhr4CAgHv3CHwh6Hq_baJrizqjD8/edit?usp=sharing)
+[Examples](https://docs.google.com/spreadsheets/d/1lZeqk9BUoDFsNHCjhr4CAgHv3CHwh6Hq_baJrizqjD8/edit?usp=sharing)
 
 
 
