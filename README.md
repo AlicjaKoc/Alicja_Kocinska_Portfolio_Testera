@@ -10,6 +10,7 @@
   * [Basic SELECT Statement](#basic-select-statement)
   * [More complex SELECT Statement](#more-complex-select-statement)
   * [Using JOIN](#using-join)
+  * [Variables](#variables)
 - [Dare IT Challenge Project](#dare-it-challenge-project)
   * [Test cases based on User Story](#test-cases-based-on-User-Story)
   * [Test cases based on own experience](#test-cases-based-on-own-experience)
@@ -110,7 +111,9 @@ This project is designed to demonstrate my skills related to Structured Query La
 
 [Examples](https://docs.google.com/spreadsheets/d/1lZeqk9BUoDFsNHCjhr4CAgHv3CHwh6Hq_baJrizqjD8/edit?usp=sharing)
 
+#### Variables
 
+[Examples](https://docs.google.com/spreadsheets/d/1N-3XioR25waf4cwTI7255_IDW7NxoY864OpMR-ipE7E/edit?usp=sharing)
 
 ### DARE IT CHALLENGE PROJECT
 
