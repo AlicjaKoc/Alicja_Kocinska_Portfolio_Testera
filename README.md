@@ -35,7 +35,23 @@ You can download my [CV as a PDF](https://drive.google.com/drive/folders/1CLZu1W
 
 ### SKILLS
 
+- creating test cases and test
+scenarios
+- bugs reporting
+- functional testing
+- exploratory testing
+
 ### TOOLS
+
+Basic:
+- Jira
+- Trello
+- Git
+- SQL
+ 
+Good knowledge:
+- Microsoft Office: Word/Excel
+
 
 ### 100 DAYS OF TESTING ADVENTURE
 
@@ -92,26 +108,32 @@ When the 30th day arrived, I found it very motivating to learn (even if only for
 |Day 41|May 1, 2023| Repetition of Jira - Udemy course: Jira from the basics - project management (part 3)| |
 |Day 42|May 2, 2023| Book: B. Błaszczyk "English 4 IT" | |
 |Day 43|May 3, 2023| Repetition of Jira - Udemy course: Jira from the basics - project management (part 4)| |
-|Day 44|May 4, 2023| | |
-|Day 45|May 5, 2023| | |
-|Day 46|May 6, 2023| | |
-|Day 47|May 7, 2023| | |
-|Day 48|May 8, 2023| | |
-|Day 49|May 9, 2023| | |
-|Day 50|May 10, 2023| | |
-|Day 51|May 11, 2023| | |
-|Day 52|May 12, 2023| | |
-|Day 53|May 13, 2023| | |
-|Day 54|May 14, 2023| | |
-|Day 55|May 15, 2023| | |
-|Day 56|May 16, 2023| | |
-|Day 57|May 17, 2023| | |
-|Day 58|May 18, 2023| | |
-|Day 59|May 19, 2023| | |
-|Day 60|May 20, 2023| | |
-|Day 61|May 21, 2023| | |
-|Day 62|May 22, 2023| | |
-|Day 63|May 23, 2023| | |
+|Day 44|May 4, 2023| Meeting with the Mentor (online) | |
+| | | Webinar: SQL - how to write the code | |
+|Day 45|May 5, 2023| Some SoapUI requests | |
+| | | Article: More than 15 SoapUI tutorials: The best web services API testing tool | [link](https://myservername.com/15-soapui-tutorials) |
+|Day 46|May 6, 2023| Video: TestITka 15 - Stefania Winkel explores the free version of JIRA | [youtube](https://www.youtube.com/watch?v=TR1xQug48rU) |
+|Day 47|May 7, 2023| Video: TestITka 15,5 - Bart uses JIRA | [youtube](https://www.youtube.com/watch?v=Ds54RWlDGuA) |
+|Day 48|May 8, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 49|May 9, 2023| Repetition of Jira - Udemy course: Jira from the basics - project management (last part)| |
+|Day 50|May 10, 2023| Quality Island Blog: Non-functional tests | [link](https://qualityisland.pl/testy-niefunkcjonalne/) |
+| | | Quality Island Blog: What are the integration tests | [link](https://qualityisland.pl/co-to-sa-testy-integracyjne/) |
+|Day 51|May 11, 2023| Webinar: Data storytelling, or how to visualize data | |
+|Day 52|May 12, 2023| Quality Island Blog: How to measure software quality?| [link](https://qualityisland.pl/jak-mierzyc-jakosc-oprogramowania-2/) |
+| | | Quality Island Blog: How to become a better tester - part I | [link](https://qualityisland.pl/jak-stac-sie-lepszym-testerem-czesc-i/) |
+|Day 53|May 13, 2023| Article: ISO OSI Model | [link](https://securitybeztabu.pl/model-iso-osi/) |
+|Day 54|May 14, 2023| Article: The difference between SOAP and REST: a performance and security comparison | [link](https://myservername.com/soap-vs-rest-difference) |
+| | | Article: REST vs SOAP - API services | [link](https://hashdork.com/pl/rest-vs-soap-api/) |
+|Day 55|May 15, 2023| SoapUI requests exercising | |
+|Day 56|May 16, 2023| 3QA meeting | https://trojqa.pl/60-spotkanie/ |
+|Day 57|May 17, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 58|May 18, 2023| Participation in the #QA contest: Describe a path through the Infoshare agenda that will be interesting and useful in terms of maintaining quality. Make your answer argumentative. | [link](https://www.facebook.com/trojqa/posts/pfbid0fpJaFURSTTcWLAdMU67uZ89L4dui6st8mTbpdfnyAippGHrtNThzrVPBEn7QtJp9l) |
+| | | I won :blush: :muscle: - the prize: Infoshare Conference Pass | |
+|Day 59|May 19, 2023| Udemy course: Azure DevOps Fundamentals for Beginners (part 1)| |
+|Day 60|May 20, 2023| Udemy course: Azure DevOps Fundamentals for Beginners (part 2) | |
+|Day 61|May 21, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 62|May 22, 2023| Video: How secure are your applications against password cracking? | [youtube](https://www.youtube.com/watch?v=jDnPVsDFsZE)|
+|Day 63|May 23, 2023| Meeting with the Mentor (online) | |
 |Day 64|May 24, 2023| | |
 |Day 65|May 25, 2023| | |
 |Day 66|May 26, 2023| | |
