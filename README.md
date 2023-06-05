@@ -134,17 +134,18 @@ When the 30th day arrived, I found it very motivating to learn (even if only for
 |Day 61|May 21, 2023| Book: B. Błaszczyk "English 4 IT" | |
 |Day 62|May 22, 2023| Video: How secure are your applications against password cracking? | [youtube](https://www.youtube.com/watch?v=jDnPVsDFsZE)|
 |Day 63|May 23, 2023| Meeting with the Mentor (online) | |
-|Day 64|May 24, 2023| | |
-|Day 65|May 25, 2023| | |
-|Day 66|May 26, 2023| | |
-|Day 67|May 27, 2023| | |
-|Day 68|May 28, 2023| | |
-|Day 69|May 29, 2023| | |
-|Day 70|May 30, 2023| | |
-|Day 71|May 31, 2023| | |
-|Day 72|June 1, 2023| | |
-|Day 72|June 2, 2023| | |
-|Day 72|June 3, 2023| | |
+|Day 64|May 24, 2023| Infoshare 2023 Conference | |
+|Day 65|May 25, 2023| Infoshare 2023 Conference | |
+|Day 66|May 26, 2023| SoapUI - test cases creating | |
+|Day 67|May 27, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 68|May 28, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 1| |
+|Day 69|May 29, 2023| Video: TestITka 04: Adrian Gonciarz explores the JIRA... API | [youtube](https://www.youtube.com/watch?v=x7cYfBkVUH0) |
+|Day 70|May 30, 2023| Webinar: SQL language - exercises and mathematical operations |  |
+|Day 71|May 31, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 2 | |
+|Day 72|June 1, 2023| Click 2023 Conference (on-line): Anna Kalemba "What can QA do and what shouldn't it be afraid of?" | [youtube](https://www.youtube.com/watch?v=x7cYfBkVUH0) |
+|Day 72|June 2, 2023| Article: The Importance of Documentation in Software Testing: What to Document and Why| [link](https://medium.com/@productpizzazz/the-importance-of-documentation-in-software-testing-what-to-document-and-why-6f802ed206e) |
+| | | Article: From Chaos to Clarity: Improve Your Testing with Effective Test Case Naming Conventions | [link](https://medium.com/@blubdiblah/from-chaos-to-clarity-improve-your-testing-with-effective-test-case-naming-conventions-77761d6980ee) |
+|Day 72|June 3, 2023| Book: B. Błaszczyk "English 4 IT" | |
 |Day 72|June 4, 2023| | |
 |Day 72|June 5, 2023| | |
 |Day 72|June 6, 2023| | |
