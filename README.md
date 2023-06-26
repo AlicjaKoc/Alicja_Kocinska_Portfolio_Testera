@@ -146,28 +146,32 @@ When the 30th day arrived, I found it very motivating to learn (even if only for
 |Day 72|June 2, 2023| Article: The Importance of Documentation in Software Testing: What to Document and Why| [link](https://medium.com/@productpizzazz/the-importance-of-documentation-in-software-testing-what-to-document-and-why-6f802ed206e) |
 | | | Article: From Chaos to Clarity: Improve Your Testing with Effective Test Case Naming Conventions | [link](https://medium.com/@blubdiblah/from-chaos-to-clarity-improve-your-testing-with-effective-test-case-naming-conventions-77761d6980ee) |
 |Day 72|June 3, 2023| Book: B. Błaszczyk "English 4 IT" | |
-|Day 72|June 4, 2023| | |
-|Day 72|June 5, 2023| | |
-|Day 72|June 6, 2023| | |
-|Day 72|June 7, 2023| | |
-|Day 72|June 8, 2023| | |
-|Day 72|June 9, 2023| | |
-|Day 72|June 10, 2023| | |
-|Day 72|June 11, 2023| | |
-|Day 72|June 12, 2023| | |
-|Day 72|June 13, 2023| | |
-|Day 72|June 14, 2023| | |
-|Day 72|June 15, 2023| | |
-|Day 72|June 16, 2023| | |
-|Day 72|June 17, 2023| | |
-|Day 72|June 18, 2023| | |
-|Day 72|June 19, 2023| | |
-|Day 72|June 20, 2023| | |
-|Day 72|June 21, 2023| | |
-|Day 72|June 22, 2023| | |
-|Day 72|June 23, 2023| | |
-|Day 72|June 24, 2023| | |
-|Day 72|June 25, 2023| | |
+|Day 72|June 4, 2023| Article: Organisational-level test strategies and modern approaches | [link](http://www.software-testing.com.au/blog/2023/05/09/organisational-level-test-strategy-and-modern-approaches-some-thoughts/?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_81&utm_term=2023-06-25) |
+|Day 72|June 5, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 3 | |
+|Day 72|June 6, 2023| Learning a new tool - ShareX | |
+|Day 72|June 7, 2023| Meeting with the Mentor (online)| |
+|Day 72|June 8, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 4 | |
+|Day 72|June 9, 2023| Article: What is software quality for a developer? | [link](https://www.coderskitchen.com/what-is-software-quality-for-a-developer/?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_81&utm_term=2023-06-25) |
+| | | Article: My five favorite testing questions | [link](https://smallsheds.garden/blog/2023/my-five-favorite-testing-questions/?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_80&utm_term=2023-06-25) |
+|Day 72|June 10, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 72|June 11, 2023| Recruiting task - defects finding | |
+|Day 72|June 12, 2023| Recruiting task - defects reporting | |
+|Day 72|June 13, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 5 | |
+|Day 72|June 14, 2023| Article: The paradigm of Quality - Optimised | [link](https://qualitywithmillan.github.io/post/the-paradigm-of-quality-optimised.html?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_80&utm_term=2023-06-25) |
+|Day 72|June 15, 2023| Meeting with the Mentor (online)| |
+|Day 72|June 16, 2023| Meeting at the end of 8th edition Tech Leaders | |
+|Day 72|June 17, 2023| A written evaluation of the Tech Leaders mentoring program | |
+|Day 72|June 18, 2023| Repetition: Certified Tester Foundation Level Syllabus - chapter 6 | |
+|Day 72|June 19, 2023| Book: B. Błaszczyk "English 4 IT" | |
+|Day 72|June 20, 2023| Tech3camp meeting | https://tech.3camp.pl/archiwum |
+|Day 72|June 21, 2023| Article: Essential Tests for a Quality Engineer | [link](https://www.koder.ly/2023/01/essential-tests-for-a-quality-engineer/?utm_source=newsletter&utm_medium=email&utm_campaign=qa_weekly_82&utm_term=2023-06-25)|
+| | | Article: Can You Measure The Quality? | [link](https://medium.com/@anas.fitiani/can-you-measure-the-quality-31e00a013421) |
+|Day 72|June 22, 2023| Video: Good practices for creating SQL queries | [youtube](https://www.youtube.com/watch?v=-8HV2fJYH_E) |
+|Day 72|June 23, 2023| Article: Ethics and motivation of the tester | [link](https://testerzy.pl/baza-wiedzy/artykuly/etyka-i-motywacja-testera) |
+| | | Article: Exploratory testing strategy | [link](https://testerzy.pl/baza-wiedzy/artykuly/strategia-testowania-eksploracyjnego) |
+|Day 72|June 24, 2023| Artcle: Technical skills are not everything | [link](https://testerzy.pl/baza-wiedzy/artykuly/umiejetnosci-techniczne-to-nie-wszystko) |
+| | | Article: Which tests should be the most numerous? | [link](https://testerzy.pl/baza-wiedzy/artykuly/jakich-testow-powinno-byc-najwiecej) |
+|Day 72|June 25, 2023| Book: B. Błaszczyk "English 4 IT" | |
 |Day 72|June 26, 2023| | |
 |Day 72|June 27, 2023| | |
 |Day 72|June 28, 2023| | |
